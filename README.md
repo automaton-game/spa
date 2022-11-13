@@ -1,8 +1,11 @@
 ## Running on VS Code
 Just clone de repo and start coding.
 To debug type 
+
+  ``` 
   npm install
   npm run dev
+  ``` 
   
 
 ## Running React on Repl.it
